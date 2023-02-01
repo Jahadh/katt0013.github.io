@@ -1,20 +1,23 @@
-<!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="UTF-8">
-    <title>My First Page</title>
-  </head>
-  <body>
-    <header>
-      This is my Website Header
-      <nav>This is where the navigation links will be added</nav>
-    </header>
-    <main>
-      This is the main content of the page
-      <article>This is the article on the page</article>
-      <aside>Some additional but not relevant information</aside>
-      <section>Some more information about our website</section>
-    </main>
-    <footer>The footer of the web page</footer>
-  </body>
+<head>
+<title> MY HTML PAGE</title>
+<head/>
+<head1>
+<header>
+Jahadh Kattuvettiyil Sathy<br>
+<header/>
+</head1>
+<article>
+<head2>
+About me<br>
+</head2>
+<body>
+<p1>
+My name is Jahadh Kattuvettiyil Sathy . I am 20 years old.   I am born and brought up in Kerala. I completed my higher education in the year 2020 in Kerala as science as one of my favorite subjects. I have an elder sister and a younger brother.  My passion is to become a professional photographer.
+</p1>
+<p2>
+My hobbies are listening to music, and video editing. I am very passionate about watching movies regarding language and the Indian film industry and the Marvel cinematic universe is what I like the most. I love painting. My favorite painter is Claude Monet. My favorite musician is Eminem and from his songs Sing for the Moment is my favorite one.
+</p2>
+<article/>
+</body>
 </html>
