@@ -1,3 +1,6 @@
+*{
+    box-sizing: border-box;
+}
 .header {
     position: relative;
     text-align: centre;
@@ -11,4 +14,21 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -30%);
+}
+body{
+    background-color: aquamarine;
+}
+.wrapper{
+    margin: 0px auto;
+    width: 1000px;
+    background-color: lightcyan;
+}
+
+.container{
+    margin: 0px auto;
+}
+
+img{
+    float: left;
+    padding: 10px;
 }
