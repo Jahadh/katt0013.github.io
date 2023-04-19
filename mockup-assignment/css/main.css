@@ -18,7 +18,7 @@ time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 }
-/* HTML5 display-role reset for older browsers */
+
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
 	display: block;
@@ -42,7 +42,7 @@ table {
 	border-spacing: 0;
 }
 
-/* Final Project Styles */
+
 
 html {
  font-family: 'Open Sans', Helvetica, sans-serif;
@@ -119,14 +119,13 @@ section {
  margin-bottom: 2em;
 }
 
-/* Header */
+
 
 header {
  background-color: #222;
  padding-top: 1em;
 }
 
-/* Main Navigation */
 
 nav.contain {
  margin: 0;
@@ -178,7 +177,7 @@ nav.contain {
  color: #c78c06;
 }
 
-/* Main Banner */
+
 
 .banner {
  background: url(../img/main-banner.jpg) center no-repeat;
@@ -211,9 +210,6 @@ nav.contain {
  color: #222;
 }
 
-/* Main Content */
-
-/* About Section */
 
 .about {
  background-color: #ffe6ac;
@@ -231,7 +227,6 @@ nav.contain {
  margin-top: 1em;
 }
 
-/* Services */
 
 .services div > div {
  background-color: #ffe6ac;
@@ -253,8 +248,6 @@ nav.contain {
 
 
 
-/* Vision Section */
-
 .vision {
  background: grey url("../img/vision.jpg") no-repeat center;
  padding: 1em;
@@ -265,7 +258,6 @@ nav.contain {
  margin-top: 1em;
 }
 
-/* Our Team Section */
 
 .team-list div {
  background-color: #ffe6ac;
@@ -287,7 +279,6 @@ hr {
  color: #c78c06;
 }
 
-/* Contact Section */
 
 .contact div {
  margin-top: 1em;
@@ -336,7 +327,6 @@ th {
  background-color: #ffe6ac;
 }
 
-/* Footer */
 
 footer {
  background-color: #222;
@@ -354,7 +344,6 @@ footer a {
  color: #c78c06;
 }
 
-/* Desktop Styles */
 
 @media screen and (min-width: 760px) {
  
@@ -446,7 +435,6 @@ footer a {
     margin: 0;
 }
 
-/* Servies Grid */
 
 .services-list {
     display: grid;
@@ -527,7 +515,6 @@ footer a {
     grid-area: bob;
 }
 
-/* Contact */
 
 .contact-grid {
     display: grid;
