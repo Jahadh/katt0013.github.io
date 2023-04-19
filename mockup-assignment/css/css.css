@@ -180,7 +180,7 @@ nav.contain {
 
 
 .banner {
- background: url(../img/main-banner.jpg) center no-repeat;
+ background: url(../images/main-banner.jpg) center no-repeat;
  width: 100%;
  display: flex;
  margin-bottom: 0;
@@ -249,7 +249,7 @@ nav.contain {
 
 
 .vision {
- background: grey url("../img/vision.jpg") no-repeat center;
+ background: grey url("../images/vision.jpg") no-repeat center;
  padding: 1em;
  color: #fff;
 }
